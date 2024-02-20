@@ -1,0 +1,21 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="BintrayPublishingPlugin" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ClashingTraitMethods" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DependencyNotationArgument" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ForeignDelegate" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GrDeprecatedAPIUsage" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GrPackage" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GrReassignedInClosureLocalVar" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GroovyDoubleNegation" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GroovyEmptyStatementBody" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GroovyGStringKey" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GroovyImplicitNullArgumentCall" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GroovyPointlessBoolean" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JCenterRepository" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MultipleRepositoryUrls" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="NewInstanceOfSingleton" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="UnnecessaryQualifiedReference" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
